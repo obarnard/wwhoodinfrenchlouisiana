@@ -2,16 +2,9 @@
 layout: page
 title: About
 ---
+"The past is our only real possession in life. It is the one piece of property of which time cannot deprive us; it is our own in a way that nothing else in life is." 
 
-One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
-from one generation to another. The art of textual editing, among other practices, has helped many
-cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
-highest form by a dwindling number of scholars. In a digital environment the problem is compounded
-by the difficulties of the medium. While vast repositories and "e-publications" appear on the
-online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In
-contrast, most textual scholars who have made the leap to a rigorous digital practice have focused
-on markup, relying on technical teams to deploy and maintain their work. This makes your average
-scholarly digital edition a very costly and therefore limited affair.
+When Grace King published her 1932 memoir, she was haunted by what she perceived as her fall from mastery. To protect the past of her dreams, she published work after work promoting a history of Louisiana that enshrined enslavers into the halls of fame while rendering 
 
 As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and
 front end while flattening the learning curves for the user and the producer. Out of the box, the Ed
